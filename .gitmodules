@@ -1,0 +1,6 @@
+[submodule "super8festivals-omeka-plugin"]
+	path = super8festivals-omeka-plugin
+	url = git@github.com:Super8Festivals/super8festivals-omeka-plugin.git
+[submodule "super8festivals-omeka-theme"]
+	path = super8festivals-omeka-theme
+	url = git@github.com:Super8Festivals/super8festivals-omeka-theme.git
